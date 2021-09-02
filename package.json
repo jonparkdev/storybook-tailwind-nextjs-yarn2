@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "packageManager": "yarn@3.0.1",
+  "workspaces": [
+    "packages/**"
+  ],
+  "private": true,
+  "devDependencies": {
+    "typescript": "~4.3"
+  }
+}
